@@ -20,5 +20,6 @@ Após baixar o projeto, para roda-lo localmente:
 * Extrair a pasta do projeto e abri-la através da IDE utilizada onde tambem será possível editar os arquivos conforme necessário;
 * Rodar o algoritmo que deseja em sua respectiva classe, já que cada um tem seu respectivo método main dentro da classe.
 * Exemplo do bubble sort sendo usado, a cada iteração que ocorre, é printado novamente o array, separado pela linha pontilhada:
+  
   ![image](https://github.com/Lucassilva811/PjBL4-AlgoritmosOrdenacao/assets/55262537/0eed7720-45ea-4572-8be8-ba78c0c8b338)
 
